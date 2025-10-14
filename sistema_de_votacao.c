@@ -8,15 +8,12 @@ int main() {
 
     printf(" Urna Online 2025📠 \n");
 
-    // NOME
     printf("Digite seu Nome: ");
     scanf("%s", nome);
 
-    // CPF
     printf("Digite seu CPF: ");
     scanf("%d", &cpf);
 
-    // RG
     printf("Digite seu RG: ");
     scanf("%d", &cadastro);
 
