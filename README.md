@@ -42,6 +42,9 @@ _Como o código funciona_
 2. Dependendo da idade inserida, o programa imprime a série correspondente (como descrito na tabela de faixas etárias).
 3. Se a idade não se encaixar nas faixas previstas, o programa não fará nenhuma saída adicional.
 
+_Prints_
+<img width="471" height="314" alt="Captura de tela 2025-10-21 114246" src="https://github.com/user-attachments/assets/341b8399-e9b2-4d3c-9179-253871f43675" />
+
 
 
 _Calculadora_basica_
@@ -93,6 +96,10 @@ _Como o código funciona_
 5. O resultado da operação é calculado e exibido com duas casas decimais.
 6. O programa verifica se o usuário tentou dividir por zero, mostrando um erro caso isso aconteça.
 
+_Prints_
+<img width="410" height="223" alt="Captura de tela 2025-10-21 114340" src="https://github.com/user-attachments/assets/4107df23-44ab-41cf-a106-22576b7e512e" />
+
+
 
 _Urna Online 2025_
 
@@ -143,3 +150,7 @@ _Observações_
 
 * O programa não verifica a validade dos dados (ex.: CPF e RG não são validados).
 * Não há controle de votos múltiplos, ou seja, o sistema permite um único voto por execução do programa.
+
+_Prints_
+<img width="458" height="492" alt="Captura de tela 2025-10-21 114449" src="https://github.com/user-attachments/assets/191c5ae7-cf15-4f34-b276-b3863642aed1" />
+
