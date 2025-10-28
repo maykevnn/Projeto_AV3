@@ -103,7 +103,7 @@ _Prints_
 
 _Urna Online 2025_
 
-Este programa em C simula um sistema de urna eletrônica, onde o usuário realiza seu cadastro e, em seguida, faz um voto.
+Este programa em C simula um sistema de urna eletrônica, onde o usuário realiza seu cadastro e, em seguida, faz um voto.(eu quis fazer um sistema de urna para ficar mais bonito)
 
 _Funcionalidade_
 
